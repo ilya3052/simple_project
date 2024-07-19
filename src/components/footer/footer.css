@@ -1,0 +1,15 @@
+.footer {
+  background-color: #4C5866;
+}
+.footer_content {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  padding: 28px 0;
+}
+
+.social_list {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 30px;
+}

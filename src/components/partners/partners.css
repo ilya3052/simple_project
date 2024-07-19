@@ -1,0 +1,18 @@
+.partners {
+  background-color: #ebebeb;
+  padding: 90px 0;
+}
+
+.partners_list {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 30px;
+}
+
+.partner {
+  width: 355px;
+}
+
+.partner-img {
+  width: 100%;
+}

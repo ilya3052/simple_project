@@ -1,0 +1,31 @@
+.business_card_results_item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #c0c0c0;
+  padding-top: 20px;
+  column-gap: 30px;
+  max-width: 350px;
+}
+
+.business_card_results_img {
+
+}
+
+.business_card_results_text {
+  padding-top: 18px;
+}
+
+.business_card_results_text_title {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #666;
+}
+
+.business_card_results_text_desc {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #85859b;
+}

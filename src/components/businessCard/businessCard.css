@@ -1,0 +1,12 @@
+.business_card {
+  padding-top: 90px;
+  background-color: #EBEBEB;
+
+}
+
+.business_card-results {
+  display: flex;
+  column-gap: 30px;
+  justify-content: space-between;
+  align-items: center;
+}

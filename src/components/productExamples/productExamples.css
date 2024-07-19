@@ -1,0 +1,10 @@
+.product_examples-list {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 30px;
+  margin: 90px auto;
+}
+
+.product_examples-list-item {
+  width: 355px;
+}

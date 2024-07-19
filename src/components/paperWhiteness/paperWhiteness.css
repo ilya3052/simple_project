@@ -1,0 +1,32 @@
+.paper-whiteness {
+  background-color: #EBEBEB;
+}
+
+.paper-whiteness_content {
+  display: flex;
+  justify-content: space-between;
+  /*align-items: center;*/
+  column-gap: 30px;
+  padding-top: 90px;
+}
+
+.paper-whiteness_content-text {
+  padding-top: 59px;
+  max-width: 350px;
+  margin-bottom: 60px;
+}
+
+.paper-whiteness_content-text-title {
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 1;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.paper-whiteness_content-text-desc {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #85859b;
+}
